@@ -1,8 +1,17 @@
 - 👋 Hi, I’m @tnaoi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+  - Personal website coming soon...
+- 👀 I’m interested in:
+  - Software development for scientific research.
+  - Generative/Computational art.
+  - Theorem provers.
+  - Audio production: [soundcloud](https://soundcloud.com/jamiemori).
+- 🌱 I’m currently learning:
+  - [Lean](https://leanprover.github.io/).
+  - [Rust](https://www.rust-lang.org/).
+  - Game programming.
+  - Programming language theory.
+- 👨🏻‍💻 I'm currently working on:
+  - Game to learn the fundamentals of theorem proving.
 
 <!---
 tnaoi/tnaoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
