@@ -11,7 +11,7 @@
   - Game programming.
   - Programming language theory.
 - 👨🏻‍💻 I'm currently working on:
-  - Game to learn the fundamentals of theorem proving.
+  - Software for quantum computer research and development.
 
 <!---
 tnaoi/tnaoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
