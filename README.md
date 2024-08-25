@@ -7,7 +7,6 @@
   - Audio production: [soundcloud](https://soundcloud.com/jamiemori).
 - 🌱 I’m currently learning:
   - [Lean](https://leanprover.github.io/).
-  - [Rust](https://www.rust-lang.org/).
   - Game programming.
   - Programming language theory.
 - 👨🏻‍💻 I'm currently working on:
