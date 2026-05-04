@@ -9,9 +9,6 @@
   - [Lean](https://leanprover.github.io/).
   - Game programming.
   - Programming language theory.
-- 👨🏻‍💻 I'm currently working on:
-  - Software for quantum computer research and development.
-
 <!---
 tnaoi/tnaoi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
